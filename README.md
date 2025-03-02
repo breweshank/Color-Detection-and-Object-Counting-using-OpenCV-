@@ -26,3 +26,8 @@ Follow these steps to run the project on your local machine:
 ```sh
 git clone https://github.com/breweshank/Color-Detection-OpenCV.git
 cd Color-Detection-OpenCV
+
+### 2️⃣ Install Dependencies
+```sh
+pip install opencv-python numpy
+
